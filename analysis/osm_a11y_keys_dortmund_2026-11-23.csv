@@ -1,0 +1,102 @@
+Schlüssel,Objekte in Dortmund,Werte (Top)
+surface,69115,asphalt=30375; paving_stones=25321; compacted=4033; concrete=1515; paved=1380; fine_gravel=1042
+entrance,18830,main=16051; yes=2196; staircase=204; home=169; secondary=50; emergency=46
+tactile_paving,11456,no=8788; yes=2631; incorrect=18; reversible=10; contrasted=5; partial=4
+sidewalk,8356,no=3152; both=2342; separate=1218; right=976; left=661; yes=6
+smoothness,7027,good=3701; excellent=1695; intermediate=1092; bad=386; very_bad=73; horrible=37
+wheelchair,6941,yes=4714; no=1449; limited=775; bad=2; designated=1
+kerb,4409,lowered=3280; flush=824; raised=232; no=64; regular=2; yes=1
+incline,3387,up=1829; down=1363; -20%=20; 0%=14; -10%=14; 0=8
+width,3349,3=351; 2=345; 1=307; 5=170; 6=121; 4=111
+sidewalk:right,2419,separate=1973; yes=279; no=167
+sidewalk:left,2416,no=1702; separate=508; yes=206
+handrail,2128,yes=1405; no=716; center=4; both=2; left=1
+ramp,2066,no=1810; yes=184; separate=72
+step_count,1922,3=319; 4=206; 6=164; 5=164; 2=141; 7=101
+sidewalk:both,1542,separate=1531; no=8; yes=3
+traffic_signals:sound,1451,yes=1052; no=395; locate=4
+traffic_signals:vibration,1378,yes=1060; no=318
+sidewalk:both:surface,1158,paving_stones=929; asphalt=218; concrete:plates=9; paving_stone=2
+sidewalk:right:surface,655,paving_stones=510; asphalt=139; concrete=3; fine_gravel=1; dirt=1; compacted=1
+sidewalk:left:surface,432,paving_stones=318; asphalt=109; concrete:plates=5
+door,417,hinged=326; sliding=37; overhead=21; yes=16; safearea=6; no=3
+toilets:wheelchair,335,no=191; yes=141; limited=3
+ramp:wheelchair,113,separate=65; yes=33; no=15
+wheelchair:description,97,"Kein Kasseler Bord=11; Standort einer mobilen Rollstuhlrampe, belastbar bis 350 kg, Bedienung durch Bahnpersonal.=6; Haltestelle liegt auf einem Gehweg. Fahrplankästen in 1,20m angebracht. Bewertung vorgenommen im Auftrag der VKU=5; Der Aufzug ist nur für schmale Rollstühle geeignet=3; Kein Kasseler Bord, aber Hochbord=2; Eingangsstufe ca. 10 cm=2"
+kerb:height,87,3 cm=45; 0 cm=31; 0=6; 0.03=2; 5 cm=1; 10 cm=1
+entrance_marker:subway,78,yes=78
+ramp:stroller,74,yes=72; no=2
+handrail:left,73,yes=68; no=5
+handrail:right,55,yes=54; no=1
+ramp:bicycle,43,yes=40; no=3
+tactile_writing:braille:de,34,yes=31; no=3
+width:lanes:backward,30,|1.5=9; ||1.5=7; ||1.3=3; 3|1.5=3; 3|1.4=2; 2.8|1.5=2
+tactile_writing:embossed_printed_letters:de,29,yes=29
+width:lanes:forward,27,|1.5=8; 3|1.5=5; |1.2=2; ||1.2=2; 3.1|1.5=2; 2.8|1.8=2
+entrance_marker:s-train,23,yes=23
+speech_output:de,22,yes=21; no=1
+kerb:approach_aid,21,no=17; yes=4
+surface.material,19,stone=19
+handrail:center,17,yes=17
+surface:note,14,"Festgelaufener Wsldboden.=1; Einzelne Asphalt-Stellen aber größtenteils nur Erde=1; Vereinzelt Asphalt, aber größtenteils Erde.=1; wassergebundene Wegedecke=1; Ursprünglich Asphalt, inzwischen mit Moos und Gras überwachsen, entsprechend fast durchgehend grün.=1; private road=1"
+sidewalk:left:bicycle,11,yes=11
+width:lanes:backward:end,10,2.89=2; 0|4.4=1; 0|3.09=1; 3.13=1; 0|3.4=1; 1.48|3.4=1
+width:lanes:backward:start,10,2.65|3.35=1; 4.6=1; 2.87|3.23=1; 3.29=1; 2.89=1; 1.48|3.4=1
+width:lanes:forward:start,10,3.4=1; 0|4.5=1; 0|3.4=1; 3.25=1; 4.29=1; 3.11=1
+width:start,10,9.4=2; 9.1=1; 9.5=1; 6.54=1; 7.18=1; 8.45=1
+doors,9,1=6; 2=3
+speech_output,9,no=6; yes=3
+sidewalk:both:bicycle,9,yes=9
+width:end,9,8.45=2; 8.8=1; 8.7=1; 9.25=1; 7.18=1; 9.12=1
+ramp:luggage,9,no=8; yes=1
+width:lanes:forward:end,9,3.08|2.73=1; 3.13|3.02=1; 4.29=1; 5.98=1; 3.45=1; 3.11=1
+wheelchair:source,8,ruhr2010-barrierefrei.de=8
+wheelchair:description:de,8,"Es gibt einen Zugang, der zum Denkmal führt und keine Barrieren aufweist. Der Weg ist Teils sehr steil. Vor der Mauer ist eine kleine Stufe ähnlich einer Bordsteinkante.=4; Hochbordstein, kein Buskapstein=2; ebenerdiger Zugang, aber keine Toilette=1; Rampe am Eingang=1"
+sidewalk:right:smoothness,8,good=8
+entrance_marker:train,7,yes=7
+sidewalk:right:bicycle,7,yes=7
+sidewalk:right:foot,7,designated=6; yes=1
+smoothness:date,7,2020-11-01=7
+sidewalk:both:width,7,1.8=7
+sidewalk:left:width,7,1=3; 5.6=1; 3=1; 0.9=1; 0.5=1
+wheelchair:access,6,yes=5; limited=1
+sidewalk:left:foot,6,designated=6
+sidewalk:left:traffic_sign,6,DE:239;DE:1022-10=6
+sidewalk:both:smoothness,6,good=6
+wheelchair:note,5,"Angaben zur Barrierefreiheit finden Sie unter http://www.ruhr2010-barrierefrei.de/fileadmin/images/Veranstaltungsort_Sehenswuerdigkeiten/PDF_Dokumente_ABF/Dortmund_DASA.pdf=1; nur mit Voranmeldung und während einer Führung=1; Um die Rollstuhlplätze nicht anderweitig zu vergeben, werden Rollstuhlfahrer darum gebeten, ihre Karten möglichst frühzeitig zu bestellen. Bei besonderen Anforderungen wenden Sie sich bitte an die Ticket-Hotline oder senden ein Fax.=1; siehe http://www.ruhr2010-barrierefrei.de/fileadmin/images/Veranstaltungsort_Sehenswuerdigkeiten/PDF_Dokumente_ABF/Dortmund_Industriemuseum_Zeche_Zollern.pdf=1; Angaben zur Barrierefreiheit finden Sie unter https://ab-nrw.de/index.php?option=com_imhinstitution&view=imhinstitution&id=55&Itemid=224=1"
+sidewalk:right:traffic_sign,5,DE:239;DE:1022-10=3; DE:1022-10=2
+sidewalk:segregated,5,yes=5
+sidewalk:surface,5,paving_stones=5
+tactile_writing,4,yes=4
+wheelchair:step_height,4,10=4
+wheelchair:places,4,yes=2; 3=1; 16=1
+sidewalk:both:foot,4,designated=3; yes=1
+surface:colour,3,red=3
+sidewalk:right:width,3,3.5=1; 1.5=1; 2.1=1
+sidewalk:left:bicycle:signed,3,yes=3
+sidewalk:width,3,1.2=2; 1.5=1
+entrance:step_count,2,0=1; 3=1
+entrance:width,2,4=1; 1=1
+wheelchair:turning_circle,2,no=2
+sidewalk:both:est_width,2,2.2m=1; 2.5m=1
+sidewalk:both:incline,2,2°=1; 1°=1
+ramp:portable,2,no=2
+sidewalk:both:bicycle:signed,2,yes=2
+kerb:left,1,lowered=1
+kerb:right,1,raised=1
+wheelchair:guided_tour,1,"Es gibt bestimmte Termine, bei denen Führungen mit einem Gebärdendolmetscher durchgeführt werden. Bitte anmelden, da die Gruppengröße auf 15 Teilnehmer begrenzt ist. Ein Audio-Guide steht ebenfalls zur Verfügung=1"
+tactile_writing:braille,1,yes=1
+toilets:wheelchair:accessible_via,1,ground_floor=1
+toilets:wheelchair:door_width,1,2=1
+toilets:wheelchair:grab_rails,1,no=1
+wheelchair:description:en,1,ramp at the entrance=1
+entrance:kerb:height,1,0.2=1
+sidewalk:left:oneway,1,yes=1
+surface:material,1,stone=1
+sidewalk:left:tactile_paving,1,yes=1
+step:condition,1,uneven=1
+width:lanes,1,|||1.5=1
+sidewalk:right:kerb,1,no=1
+ramp:landing,1,yes=1
+sidewalk:right:bicycle:signed,1,yes=1
+sidewalk:right:oneway,1,yes=1

@@ -1,0 +1,5 @@
+Merkmal,Quelle,Anzahl gesamt,Anzahl mit Angabe,Anteil in %
+Haltestelle in OSM gefunden (ref:IFOPT),GTFS+OSM,997,966,96.9
+Haltestelle mit OSM-wheelchair=* (mind. ein Objekt),GTFS+OSM,997,494,49.5
+Steig in OSM gefunden (Plattform mit gleicher IFOPT),GTFS+OSM,2277,2005,88.1
+Steig mit OSM-wheelchair=* an der Plattform,GTFS+OSM,2277,876,38.5

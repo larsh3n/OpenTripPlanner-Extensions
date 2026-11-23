@@ -1,0 +1,147 @@
+Merkmal,Quelle,Objektklasse,Bezug,Anzahl gesamt,Anzahl mit Angabe,Anteil in %,Werte (Top),Länge gesamt km,Anteil nach Länge %
+wheelchair,OSM,Plattform,Dortmund,2993,1021,34.1,yes=560; no=269; limited=192,,
+wheelchair:description,OSM,Plattform,Dortmund,2993,22,0.7,"Kein Kasseler Bord=11; Haltestelle liegt auf einem Gehweg. Fahrplankästen in 1,20m angebracht. Bewertung vorgenommen im Auftrag der VKU=5; Kein Kasseler Bord, aber Hochbord=2; In Richtung Schwerte dient eine 1o cm tiefer liegende (als der Straßenbelag) Schotterfläche als Haltestelle.In Richtung Do-Hörde liegt die Haltestelle direkt am Straßenrand vor einem Gebäude ohne Gehweg.Bewertung vorgenommen im Auftrag der VKU=2; Haltestelle liegt am ebenerdigen Straßenrand in einer Grünanlage zwischen 2 Einfahrten. Fahrplankästen in 1,20m angebracht. Bewertung vorgenommen im Auftrag der VKU=1; Kein Kasseler Bord, wegen zu großem Neigungswinkel klappen nicht alle Fahrer die Rampe aus=1",,
+tactile_paving,OSM,Plattform,Dortmund,2993,1714,57.3,no=1121; yes=586; incorrect=5; contrasted=2,,
+kerb,OSM,Plattform,Dortmund,2993,34,1.1,raised=31; no=2; lowered=1,,
+kerb:height,OSM,Plattform,Dortmund,2993,0,0.0,,,
+shelter,OSM,Plattform,Dortmund,2993,1992,66.6,no=1117; yes=875,,
+bench,OSM,Plattform,Dortmund,2993,1900,63.5,no=1046; yes=854,,
+lit,OSM,Plattform,Dortmund,2993,1488,49.7,yes=1175; no=313,,
+departures_board,OSM,Plattform,Dortmund,2993,62,2.1,timetable=42; realtime=16; no=2; yes=2,,
+passenger_information_display,OSM,Plattform,Dortmund,2993,84,2.8,no=48; yes=36,,
+surface,OSM,Plattform,Dortmund,2993,58,1.9,paved=30; paving_stones=21; asphalt=4; concrete=2; compacted=1,,
+width,OSM,Plattform,Dortmund,2993,1,0.0,5=1,,
+level,OSM,Plattform,Dortmund,2993,116,3.9,1=51; -2=27; -1=24; 0=8; -3=4; 2=2,,
+ref:IFOPT,OSM,Plattform,Dortmund,2993,2867,95.8,de:05913:194:1:01=4; de:05913:194:1:02=4; de:05913:398:1:04=4; de:05913:398:5:05=4; de:05913:163:21:21=4; de:05913:163:22:22=4,,
+wheelchair,OSM,Station,Dortmund,72,58,80.6,yes=42; no=10; limited=6,,
+wheelchair:description,OSM,Station,Dortmund,72,4,5.6,"Zu den Gleisen >7 nur mit Lastenaufzug und Anfrage.?Zur U-Bahn nur mit Aufzug außerhalb des Bahnhofs (>1 km Umweg)=1; In die S-Bahn - Züge und die DSW - Busse kann man barrierefrei einsteigen. In den KOE Bus nicht.=1; Aufzug oft kaputt, ebenerdiges Einsteigen in die Züge nicht möglich, großer Abstand zwischen Bahnsteig und Zug.=1; Zugang für Rollis nur über die Straße Sadelhof möglich.=1",,
+tactile_paving,OSM,Station,Dortmund,72,3,4.2,no=3,,
+kerb,OSM,Station,Dortmund,72,0,0.0,,,
+kerb:height,OSM,Station,Dortmund,72,0,0.0,,,
+shelter,OSM,Station,Dortmund,72,2,2.8,no=2,,
+bench,OSM,Station,Dortmund,72,3,4.2,no=2; yes=1,,
+lit,OSM,Station,Dortmund,72,2,2.8,yes=2,,
+departures_board,OSM,Station,Dortmund,72,1,1.4,timetable=1,,
+passenger_information_display,OSM,Station,Dortmund,72,0,0.0,,,
+surface,OSM,Station,Dortmund,72,0,0.0,,,
+width,OSM,Station,Dortmund,72,0,0.0,,,
+level,OSM,Station,Dortmund,72,7,9.7,1=4; -2=2; -1=1,,
+ref:IFOPT,OSM,Station,Dortmund,72,39,54.2,de:05913:298:90=1; de:05913:726=1; de:05913:697:90:1=1; de:5913:701:90=1; de:5913:700:90=1; de:05913:132=1,,
+wheelchair,OSM,Halteposition,Dortmund,1546,310,20.1,yes=229; no=62; limited=19,,
+wheelchair:description,OSM,Halteposition,Dortmund,1546,0,0.0,,,
+tactile_paving,OSM,Halteposition,Dortmund,1546,6,0.4,no=6,,
+kerb,OSM,Halteposition,Dortmund,1546,0,0.0,,,
+kerb:height,OSM,Halteposition,Dortmund,1546,0,0.0,,,
+shelter,OSM,Halteposition,Dortmund,1546,6,0.4,yes=4; no=2,,
+bench,OSM,Halteposition,Dortmund,1546,1,0.1,no=1,,
+lit,OSM,Halteposition,Dortmund,1546,1,0.1,yes=1,,
+departures_board,OSM,Halteposition,Dortmund,1546,0,0.0,,,
+passenger_information_display,OSM,Halteposition,Dortmund,1546,0,0.0,,,
+surface,OSM,Halteposition,Dortmund,1546,0,0.0,,,
+width,OSM,Halteposition,Dortmund,1546,0,0.0,,,
+level,OSM,Halteposition,Dortmund,1546,87,5.6,1=54; -1=18; -2=13; 2=2,,
+ref:IFOPT,OSM,Halteposition,Dortmund,1546,1468,95.0,de:05913:334:1:02=2; de:05913:1086:1:01=2; de:05913:750:21:21=2; de:05913:705:90=2; de:05913:1065:1:01=2; de:05913:548:1:01=2,,
+wheelchair,OSM,stop_area-Relation,Dortmund,1018,2,0.2,yes=2,,
+wheelchair:description,OSM,stop_area-Relation,Dortmund,1018,0,0.0,,,
+tactile_paving,OSM,stop_area-Relation,Dortmund,1018,0,0.0,,,
+kerb,OSM,stop_area-Relation,Dortmund,1018,0,0.0,,,
+kerb:height,OSM,stop_area-Relation,Dortmund,1018,0,0.0,,,
+shelter,OSM,stop_area-Relation,Dortmund,1018,1,0.1,no=1,,
+bench,OSM,stop_area-Relation,Dortmund,1018,0,0.0,,,
+lit,OSM,stop_area-Relation,Dortmund,1018,0,0.0,,,
+departures_board,OSM,stop_area-Relation,Dortmund,1018,0,0.0,,,
+passenger_information_display,OSM,stop_area-Relation,Dortmund,1018,0,0.0,,,
+surface,OSM,stop_area-Relation,Dortmund,1018,0,0.0,,,
+width,OSM,stop_area-Relation,Dortmund,1018,0,0.0,,,
+level,OSM,stop_area-Relation,Dortmund,1018,0,0.0,,,
+ref:IFOPT,OSM,stop_area-Relation,Dortmund,1018,1002,98.4,de:05913:472=3; de:05913:497=2; de:05913:201=2; de:05913:640=2; de:05913:750=2; de:05913:403=2,,
+wheelchair,OSM,Plattform – Bahn,Dortmund,248,112,45.2,yes=90; no=13; limited=9,,
+tactile_paving,OSM,Plattform – Bahn,Dortmund,248,208,83.9,yes=111; no=95; contrasted=2,,
+kerb,OSM,Plattform – Bahn,Dortmund,248,0,0.0,,,
+kerb:height,OSM,Plattform – Bahn,Dortmund,248,0,0.0,,,
+ref:IFOPT,OSM,Plattform – Bahn,Dortmund,248,226,91.1,de:05913:163:21:21=4; de:05913:163:22:22=4; de:05913:705:90=2; de:05913:16:1:01=1; de:05913:16:2:02=1; de:05913:489:23:24=1,,
+wheelchair,OSM,Plattform – Bus,Dortmund,2706,896,33.1,yes=461; no=253; limited=182,,
+tactile_paving,OSM,Plattform – Bus,Dortmund,2706,1478,54.6,no=1007; yes=466; incorrect=5,,
+kerb,OSM,Plattform – Bus,Dortmund,2706,34,1.3,raised=31; no=2; lowered=1,,
+kerb:height,OSM,Plattform – Bus,Dortmund,2706,0,0.0,,,
+ref:IFOPT,OSM,Plattform – Bus,Dortmund,2706,2607,96.3,de:05913:194:1:01=4; de:05913:194:1:02=4; de:05913:438:1:02=3; de:05913:345:1:01=3; de:05913:398:1:04=3; de:05913:438:1:01=3,,
+wheelchair,OSM,Plattform – Straßenbahn,Dortmund,9,4,44.4,no=3; yes=1,,
+tactile_paving,OSM,Plattform – Straßenbahn,Dortmund,9,3,33.3,no=3,,
+kerb,OSM,Plattform – Straßenbahn,Dortmund,9,0,0.0,,,
+kerb:height,OSM,Plattform – Straßenbahn,Dortmund,9,0,0.0,,,
+ref:IFOPT,OSM,Plattform – Straßenbahn,Dortmund,9,9,100.0,de:05913:86:22:22=1; de:05913:385:22:22=1; de:05913:385:21:21=1; de:05913:478:21:22=1; de:05913:478:21:21=1; de:05913:500:21:21=1,,
+wheelchair,OSM,Plattform – unbekannt,Dortmund,30,9,30.0,yes=8; limited=1,,
+tactile_paving,OSM,Plattform – unbekannt,Dortmund,30,25,83.3,no=16; yes=9,,
+kerb,OSM,Plattform – unbekannt,Dortmund,30,0,0.0,,,
+kerb:height,OSM,Plattform – unbekannt,Dortmund,30,0,0.0,,,
+ref:IFOPT,OSM,Plattform – unbekannt,Dortmund,30,25,83.3,de:05913:209:1:01=1; de:05954:6881:0:02=1; de:05954:6882:0:01=1; de:05913:744:1:01=1; de:05913:750:21:21=1; de:05913:398:5:05=1,,
+wheelchair,OSM,Aufzug (highway=elevator),≤ 300 m um Plattform/Station,95,83,87.4,yes=82; limited=1,,
+level,OSM,Aufzug (highway=elevator),≤ 300 m um Plattform/Station,95,87,91.6,0;1=19; -1;0=13; -2;0=10; -2;-1;0=6; -3;-2;-1;0=6; -2;-1=6,,
+door,OSM,Aufzug (highway=elevator),≤ 300 m um Plattform/Station,95,12,12.6,sliding=10; 2=2,,
+width,OSM,Aufzug (highway=elevator),≤ 300 m um Plattform/Station,95,0,0.0,,,
+opening_hours,OSM,Aufzug (highway=elevator),≤ 300 m um Plattform/Station,95,14,14.7,"24/7=12; ""Betriebszeit""=2",,
+handrail,OSM,Aufzug (highway=elevator),≤ 300 m um Plattform/Station,95,24,25.3,yes=24,,
+tactile_writing,OSM,Aufzug (highway=elevator),≤ 300 m um Plattform/Station,95,4,4.2,yes=4,,
+speech_output,OSM,Aufzug (highway=elevator),≤ 300 m um Plattform/Station,95,3,3.2,yes=2; no=1,,
+wheelchair,OSM,Aufzug (highway=elevator),Dortmund,95,83,87.4,yes=82; limited=1,,
+level,OSM,Aufzug (highway=elevator),Dortmund,95,87,91.6,0;1=19; -1;0=13; -2;0=10; -2;-1;0=6; -3;-2;-1;0=6; -2;-1=6,,
+door,OSM,Aufzug (highway=elevator),Dortmund,95,12,12.6,sliding=10; 2=2,,
+width,OSM,Aufzug (highway=elevator),Dortmund,95,0,0.0,,,
+opening_hours,OSM,Aufzug (highway=elevator),Dortmund,95,14,14.7,"24/7=12; ""Betriebszeit""=2",,
+handrail,OSM,Aufzug (highway=elevator),Dortmund,95,24,25.3,yes=24,,
+tactile_writing,OSM,Aufzug (highway=elevator),Dortmund,95,4,4.2,yes=4,,
+speech_output,OSM,Aufzug (highway=elevator),Dortmund,95,3,3.2,yes=2; no=1,,
+crossing,OSM,Querung (highway=crossing),≤ 300 m um Plattform/Station,9121,6768,74.2,unmarked=3127; traffic_signals=2572; marked=605; uncontrolled=421; zebra=39; informal=2,,
+kerb,OSM,Querung (highway=crossing),≤ 300 m um Plattform/Station,9121,426,4.7,lowered=301; flush=97; raised=13; no=10; yes=1; 2 cm=1,,
+tactile_paving,OSM,Querung (highway=crossing),≤ 300 m um Plattform/Station,9121,3863,42.4,no=3095; yes=757; incorrect=9; contrasted=2,,
+traffic_signals:sound,OSM,Querung (highway=crossing),≤ 300 m um Plattform/Station,9121,1161,12.7,yes=860; no=298; locate=3,,
+traffic_signals:vibration,OSM,Querung (highway=crossing),≤ 300 m um Plattform/Station,9121,1101,12.1,yes=865; no=236,,
+wheelchair,OSM,Querung (highway=crossing),≤ 300 m um Plattform/Station,9121,132,1.4,yes=130; no=2,,
+crossing,OSM,Querung (highway=crossing),Dortmund,9568,7092,74.1,unmarked=3307; traffic_signals=2630; marked=674; uncontrolled=438; zebra=39; informal=2,,
+kerb,OSM,Querung (highway=crossing),Dortmund,9568,443,4.6,lowered=314; flush=101; raised=13; no=10; yes=1; 2 cm=1,,
+tactile_paving,OSM,Querung (highway=crossing),Dortmund,9568,4020,42.0,no=3245; yes=764; incorrect=9; contrasted=2,,
+traffic_signals:sound,OSM,Querung (highway=crossing),Dortmund,9568,1184,12.4,yes=873; no=308; locate=3,,
+traffic_signals:vibration,OSM,Querung (highway=crossing),Dortmund,9568,1123,11.7,yes=874; no=249,,
+wheelchair,OSM,Querung (highway=crossing),Dortmund,9568,132,1.4,yes=130; no=2,,
+kerb,OSM,Bordstein (barrier=kerb),≤ 300 m um Plattform/Station,5256,3720,70.8,lowered=2864; flush=692; raised=161; regular=2; rolled=1,,
+kerb:height,OSM,Bordstein (barrier=kerb),≤ 300 m um Plattform/Station,5256,85,1.6,3 cm=45; 0 cm=31; 0=6; 5 cm=1; 10 cm=1; 12 cm=1,,
+tactile_paving,OSM,Bordstein (barrier=kerb),≤ 300 m um Plattform/Station,5256,3470,66.0,no=2570; yes=900,,
+wheelchair,OSM,Bordstein (barrier=kerb),≤ 300 m um Plattform/Station,5256,73,1.4,yes=65; no=7; limited=1,,
+kerb,OSM,Bordstein (barrier=kerb),Dortmund,5434,3841,70.7,lowered=2939; flush=717; raised=182; regular=2; rolled=1,,
+kerb:height,OSM,Bordstein (barrier=kerb),Dortmund,5434,87,1.6,3 cm=45; 0 cm=31; 0=6; 0.03=2; 5 cm=1; 10 cm=1,,
+tactile_paving,OSM,Bordstein (barrier=kerb),Dortmund,5434,3585,66.0,no=2677; yes=908,,
+wheelchair,OSM,Bordstein (barrier=kerb),Dortmund,5434,74,1.4,yes=65; no=8; limited=1,,
+surface,OSM,Fußweg (footway/path/pedestrian),≤ 300 m um Plattform/Station,42340,29858,70.5,paving_stones=17296; asphalt=6277; compacted=2512; fine_gravel=804; paved=440; grass=425,2258.6,74.1
+smoothness,OSM,Fußweg (footway/path/pedestrian),≤ 300 m um Plattform/Station,42340,2974,7.0,good=1671; excellent=615; intermediate=489; bad=127; very_bad=33; very_horrible=17,2258.6,8.1
+incline,OSM,Fußweg (footway/path/pedestrian),≤ 300 m um Plattform/Station,42340,447,1.1,up=201; down=145; 0%=8; 0=8; 3.5%=6; -20%=5,2258.6,1.1
+width,OSM,Fußweg (footway/path/pedestrian),≤ 300 m um Plattform/Station,42340,616,1.5,2=170; 1=86; 0.7=45; 3=41; 1.5=37; 0.5=35,2258.6,2.7
+lit,OSM,Fußweg (footway/path/pedestrian),≤ 300 m um Plattform/Station,42340,26213,61.9,yes=17491; no=8685; 24/7=21; automatic=14; disused=1; limited=1,2258.6,70.3
+tactile_paving,OSM,Fußweg (footway/path/pedestrian),≤ 300 m um Plattform/Station,42340,282,0.7,yes=208; no=63; reversible=10; contrasted=1,2258.6,0.5
+wheelchair,OSM,Fußweg (footway/path/pedestrian),≤ 300 m um Plattform/Station,42340,1177,2.8,yes=1115; no=52; limited=10,2258.6,2.2
+surface,OSM,Fußweg (footway/path/pedestrian),Dortmund,47852,33729,70.5,paving_stones=18396; asphalt=7092; compacted=3296; fine_gravel=918; grass=663; dirt=576,2846.2,73.8
+smoothness,OSM,Fußweg (footway/path/pedestrian),Dortmund,47852,3372,7.0,good=1806; excellent=654; intermediate=589; bad=192; very_bad=62; horrible=34,2846.2,8.8
+incline,OSM,Fußweg (footway/path/pedestrian),Dortmund,47852,564,1.2,up=238; down=168; -20%=15; 0%=13; -10%=13; 0=8,2846.2,1.4
+width,OSM,Fußweg (footway/path/pedestrian),Dortmund,47852,848,1.8,2=231; 1=148; 0.5=68; 3=53; 1.5=52; 0.7=45,2846.2,3.9
+lit,OSM,Fußweg (footway/path/pedestrian),Dortmund,47852,29008,60.6,yes=18029; no=10942; 24/7=21; automatic=14; disused=1; limited=1,2846.2,67.9
+tactile_paving,OSM,Fußweg (footway/path/pedestrian),Dortmund,47852,283,0.6,yes=208; no=64; reversible=10; contrasted=1,2846.2,0.4
+wheelchair,OSM,Fußweg (footway/path/pedestrian),Dortmund,47852,1222,2.6,yes=1119; no=93; limited=10,2846.2,2.0
+step_count,OSM,Treppe (highway=steps),≤ 300 m um Plattform/Station,3013,1753,58.2,3=291; 4=180; 6=149; 5=139; 2=126; 7=95,18.2,53.1
+handrail,OSM,Treppe (highway=steps),≤ 300 m um Plattform/Station,3013,1902,63.1,yes=1264; no=635; center=3,18.2,58.4
+ramp,OSM,Treppe (highway=steps),≤ 300 m um Plattform/Station,3013,1833,60.8,no=1649; yes=113; separate=71,18.2,51.8
+ramp:wheelchair,OSM,Treppe (highway=steps),≤ 300 m um Plattform/Station,3013,95,3.2,separate=64; yes=20; no=11,18.2,1.8
+ramp:stroller,OSM,Treppe (highway=steps),≤ 300 m um Plattform/Station,3013,70,2.3,yes=68; no=2,18.2,2.5
+incline,OSM,Treppe (highway=steps),≤ 300 m um Plattform/Station,3013,2348,77.9,up=1355; down=993,18.2,82.5
+conveying,OSM,Treppe (highway=steps),≤ 300 m um Plattform/Station,3013,220,7.3,forward=81; reversible=60; backward=43; yes=36,18.2,15.7
+tactile_paving,OSM,Treppe (highway=steps),≤ 300 m um Plattform/Station,3013,1344,44.6,no=1285; yes=52; partial=4; incorrect=3,18.2,37.5
+wheelchair,OSM,Treppe (highway=steps),≤ 300 m um Plattform/Station,3013,19,0.6,no=16; yes=2; limited=1,18.2,0.8
+step_count,OSM,Treppe (highway=steps),Dortmund,3345,1915,57.2,3=319; 4=204; 6=164; 5=162; 2=139; 7=101,20.7,52.2
+handrail,OSM,Treppe (highway=steps),Dortmund,3345,2079,62.2,yes=1362; no=714; center=3,20.7,57.6
+ramp,OSM,Treppe (highway=steps),Dortmund,3345,2010,60.1,no=1806; yes=132; separate=72,20.7,51.9
+ramp:wheelchair,OSM,Treppe (highway=steps),Dortmund,3345,103,3.1,separate=65; yes=26; no=12,20.7,1.8
+ramp:stroller,OSM,Treppe (highway=steps),Dortmund,3345,74,2.2,yes=72; no=2,20.7,2.4
+incline,OSM,Treppe (highway=steps),Dortmund,3345,2563,76.6,up=1478; down=1081; -20%=3; -20=1,20.7,80.6
+conveying,OSM,Treppe (highway=steps),Dortmund,3345,220,6.6,forward=81; reversible=60; backward=43; yes=36,20.7,13.8
+tactile_paving,OSM,Treppe (highway=steps),Dortmund,3345,1454,43.5,no=1395; yes=52; partial=4; incorrect=3,20.7,35.9
+wheelchair,OSM,Treppe (highway=steps),Dortmund,3345,19,0.6,no=16; yes=2; limited=1,20.7,0.7
+sidewalk*,OSM,Straße (mit möglichem Gehweg),≤ 300 m um Plattform/Station,13668,10126,74.1,"sidewalk=no=1530; sidewalk:left=no,sidewalk:right=separate=1487; sidewalk:both=separate=1403; sidewalk=both=1210; sidewalk=separate=1144; sidewalk:both:surface=paving_stones,sidewalk=both=749",1508.0,73.4
+sidewalk*,OSM,Straße (mit möglichem Gehweg),Dortmund,14965,10914,72.9,"sidewalk=no=1861; sidewalk:left=no,sidewalk:right=separate=1525; sidewalk:both=separate=1440; sidewalk=both=1299; sidewalk=separate=1191; sidewalk:both:surface=paving_stones,sidewalk=both=779",1802.1,71.7

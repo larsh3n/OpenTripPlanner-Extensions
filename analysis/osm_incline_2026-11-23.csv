@@ -1,0 +1,16 @@
+Merkmal,Quelle,Objektklasse,Anzahl gesamt,Anzahl mit Angabe,Anteil in %,Länge gesamt km,Anteil nach Länge %
+incline numerisch,OSM,Fußweg (footway/path/pedestrian),51668,157,0.3,2884.2,0.54
+incline Richtung (up/down),OSM,Fußweg (footway/path/pedestrian),51668,409,0.79,2884.2,0.88
+incline sonstiges,OSM,Fußweg (footway/path/pedestrian),51668,1,0.0,2884.2,0.0
+incline numerisch,OSM,Radweg (cycleway),1408,0,0.0,88.7,0.0
+incline Richtung (up/down),OSM,Radweg (cycleway),1408,10,0.71,88.7,0.92
+incline sonstiges,OSM,Radweg (cycleway),1408,0,0.0,88.7,0.0
+incline numerisch,OSM,"Straße (residential … primary, living_street, service)",43062,16,0.04,3354.2,0.1
+incline Richtung (up/down),OSM,"Straße (residential … primary, living_street, service)",43062,178,0.41,3354.2,0.39
+incline sonstiges,OSM,"Straße (residential … primary, living_street, service)",43062,0,0.0,3354.2,0.0
+incline numerisch,OSM,Treppe (steps),3341,4,0.12,20.7,0.16
+incline Richtung (up/down),OSM,Treppe (steps),3341,2559,76.59,20.7,80.47
+incline sonstiges,OSM,Treppe (steps),3341,0,0.0,20.7,0.0
+incline numerisch,OSM,Wirtschafts-/Feldweg (track),2155,10,0.46,432.5,0.64
+incline Richtung (up/down),OSM,Wirtschafts-/Feldweg (track),2155,24,1.11,432.5,0.79
+incline sonstiges,OSM,Wirtschafts-/Feldweg (track),2155,0,0.0,432.5,0.0

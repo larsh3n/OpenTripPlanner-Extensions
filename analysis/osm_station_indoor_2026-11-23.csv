@@ -1,0 +1,73 @@
+osm,name,typ,wheelchair,Plattformen,Plattformen mit level,Plattformen mit wheelchair,Aufzüge,Rolltreppen,Treppen,Fußwege mit level/indoor,highway=corridor,indoor-Flächen,Eingänge
+n5684595618,Am Turm,halt,yes,2,0,0,0,0,8,0,0,1,2
+n254699078,Brügmannplatz,station,yes,1,1,1,2,7,14,25,0,35,6
+w641795781,Busbahnhof Dortmund Hauptbahnhof,,yes,2,2,2,2,5,14,36,3,15,12
+n267534467,Buschmühle,halt,,1,0,0,0,0,3,0,0,0,0
+n6708312340,Campus Nord,halt,yes,4,3,4,3,3,38,44,5,4,18
+n1444302733,Campus Süd,station,yes,0,0,0,1,0,9,0,0,0,14
+n6601350866,DO-Lütgendortmund,,,1,1,0,0,3,11,8,0,7,4
+n439489141,Dorstfeld Betriebshof,,limited,4,0,0,0,0,7,0,0,0,10
+n439489126,Dorstfeld Betriebshof,,,4,0,0,0,0,6,0,0,0,3
+n287465550,Dortmund Germania,halt,yes,2,2,2,0,0,0,7,0,0,4
+n1458488633,Dortmund Hbf,station,limited,3,3,3,11,20,46,139,3,85,23
+n291203553,Dortmund Knappschaftskrankenhaus,halt,,2,2,0,0,0,0,0,0,0,0
+n4890786011,Dortmund Möllerbrücke,halt,,3,3,2,4,6,25,57,0,34,62
+n251609757,Dortmund Rahm,halt,limited,2,0,0,0,0,0,0,0,0,0
+n720777125,Dortmund Signal-Iduna-Park,station,yes,2,2,0,0,0,3,12,0,1,0
+n181310741,Dortmund Stadthaus,halt,yes,1,1,0,3,4,23,33,0,28,27
+n89990828,Dortmund Tierpark,halt,no,1,0,1,0,0,7,0,0,0,1
+n309979876,Dortmund Universität,halt,limited,4,3,4,3,4,27,37,0,4,31
+n6708312339,Dortmund Universität S,halt,yes,4,3,4,3,4,30,39,0,2,40
+n671651584,Dortmund West,station,yes,2,2,2,0,0,0,6,0,1,51
+n295157397,Dortmund-Aplerbeck,station,limited,2,2,2,0,0,1,3,0,0,1
+n271785740,Dortmund-Aplerbeck Süd,halt,no,1,0,1,1,0,2,5,0,1,3
+n1516341775,Dortmund-Asseln Mitte,halt,limited,2,2,0,0,0,4,2,0,0,4
+n2400176346,Dortmund-Barop,halt,no,0,0,0,0,1,6,10,0,17,35
+n675278558,Dortmund-Brackel,station,yes,0,0,0,1,0,4,13,0,2,3
+n25743078,Dortmund-Bövinghausen,station,no,1,0,1,0,0,0,0,0,2,0
+n672373389,Dortmund-Derne,station,yes,2,2,2,0,0,0,0,0,0,0
+n3376700270,Dortmund-Dorstfeld,station,yes,2,2,2,4,6,21,49,0,37,2
+n309979539,Dortmund-Dorstfeld Süd,halt,no,2,2,2,0,1,15,0,0,0,19
+n25741455,Dortmund-Huckarde,halt,yes,2,2,0,0,0,0,4,0,0,0
+n674854677,Dortmund-Huckarde Nord,halt,,3,3,0,0,0,1,0,0,0,0
+n3202809396,Dortmund-Hörde,station,yes,1,1,0,5,8,28,53,0,33,67
+n672320237,Dortmund-Kirchderne,halt,,2,0,0,0,0,0,0,0,0,0
+n272920054,Dortmund-Kirchhörde,halt,no,1,1,1,0,0,1,1,0,0,0
+n252052697,Dortmund-Kley,halt,yes,0,0,0,1,0,2,7,0,5,5
+n2400164280,Dortmund-Kruckel,halt,yes,2,0,2,0,0,0,0,0,0,0
+n25723981,Dortmund-Kurl,station,yes,0,0,0,1,0,6,4,0,2,7
+n158712558,Dortmund-Körne,halt,yes,2,2,0,0,0,3,3,0,0,3
+n258369963,Dortmund-Körne West,halt,yes,2,2,1,0,0,5,6,0,0,5
+n89990876,Dortmund-Löttringhausen,halt,,1,0,1,0,0,1,1,0,1,0
+n450555988,Dortmund-Lütgendortmund,halt,yes,1,1,0,1,3,11,14,0,16,25
+n676563343,Dortmund-Lütgendortmund Nord,halt,,1,0,0,0,0,0,0,0,0,3
+n251192761,Dortmund-Marten,station,yes,1,1,1,0,0,5,2,0,0,0
+n3358404390,Dortmund-Marten Süd,halt,no,1,1,1,0,0,2,4,0,0,1
+n676062559,Dortmund-Mengede,station,yes,2,0,2,1,0,3,10,0,1,0
+n309277017,Dortmund-Nette/Oestrich,halt,yes,1,1,0,0,0,1,0,0,0,0
+n355211015,Dortmund-Oespel,halt,yes,0,0,0,2,0,9,16,0,1,1
+n671587747,Dortmund-Scharnhorst,station,yes,2,2,2,1,0,2,12,0,0,2
+n335701661,Dortmund-Somborn,halt,yes,1,1,0,0,0,1,0,0,0,0
+n295157432,Dortmund-Sölde,halt,no,1,0,1,0,0,3,2,0,0,5
+n672409621,Dortmund-Westerfilde,halt,yes,2,2,0,0,0,1,0,0,0,0
+n246207624,Dortmund-Wickede,halt,yes,3,2,0,0,0,4,0,0,0,4
+n246207622,Dortmund-Wickede West S,halt,yes,2,2,0,0,0,2,1,0,1,11
+n672801415,Dortmund-Wischlingen,halt,yes,2,2,2,0,0,2,0,0,0,0
+n1444292627,Eichlinghofen H-Bahn,halt,yes,0,0,0,0,0,6,0,0,1,22
+n10329116129,Fredenbaum,halt,yes,3,0,0,0,0,0,0,0,0,3
+w31152366,Germania,,,2,2,2,0,0,0,6,0,0,2
+w28402116,Huckarde Bushof,,yes,3,3,0,0,0,0,0,0,0,0
+n1863464340,Mengede Bahnhof,,yes,2,0,2,1,0,3,10,0,1,0
+w479610599,Mengede Markt,,yes,0,0,0,0,0,0,0,0,2,3
+n3393519529,Münsterstraße,tram_stop,no,2,2,2,0,4,11,15,0,33,47
+n3451673948,Polizeipräsidium,station,yes,1,1,1,1,5,11,15,0,26,31
+n7657225609,Stadion,tram_stop,yes,2,2,0,0,0,28,10,0,2,5
+n1444333080,Technologiezentrum,halt,yes,1,1,1,1,0,1,2,0,0,2
+n2069813793,Westfalenhallen,halt,yes,1,1,1,2,7,13,32,0,14,7
+n759964576,Zum Spielplatz,halt,yes,0,0,0,0,0,10,0,0,0,0
+n1018767396,,,yes,0,0,0,0,0,0,0,0,0,0
+w53268808,,,,0,0,0,0,0,7,0,0,1,3
+w54699536,,,no,0,0,0,0,0,9,0,0,0,2
+w131183385,,,,4,3,4,3,3,38,44,5,4,18
+w131184804,,,,4,3,4,3,4,30,42,1,2,39
+w677986437,,,,4,3,4,3,4,27,38,0,2,42
